@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tao</folder>
+	<filename>tao_5.jpg</filename>
+	<path>D:\Python stuffs\XuLyAnh\NhanDangTraiCay\NhanDangTraiCay\Tensorflow\additionalImg\tao\tao_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>290</width>
+		<height>174</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tao</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>52</ymin>
+			<xmax>221</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tao</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>105</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

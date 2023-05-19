@@ -1,0 +1,28 @@
+item { 
+	name:'Buoi'
+	id:1
+}
+item { 
+	name:'Cam'
+	id:2
+}
+item { 
+	name:'Coc'
+	id:3
+}
+item { 
+	name:'Khe'
+	id:4
+}
+item { 
+	name:'Mit'
+	id:5
+}
+item { 
+	name:'sau_rieng'
+	id:6
+}
+item { 
+	name:'tao'
+	id:7
+}

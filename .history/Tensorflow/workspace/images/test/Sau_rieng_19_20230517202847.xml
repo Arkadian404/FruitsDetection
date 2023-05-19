@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sau_rieng</folder>
+	<filename>sau_rieng_19.jpg</filename>
+	<path>D:\Python stuffs\XuLyAnh\NhanDangTraiCay\NhanDangTraiCay\Tensorflow\additionalImg\sau_rieng\sau_rieng_19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>629</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sau_rieng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>9</ymin>
+			<xmax>605</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>
